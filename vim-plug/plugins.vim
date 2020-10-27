@@ -123,7 +123,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Plug 'maxmellon/vim-jsx-pretty'
     " Plug 'jelera/vim-javascript-syntax'
     " Plugin Graveyard
-
+    " pywal plugin for theme
+    Plug 'dylanaraps/wal.vim'
     " jsx syntax support
     " Typescript syntax
     " Plug 'HerringtonDarkholme/yats.vim'
