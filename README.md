@@ -11,6 +11,11 @@ This script only supports Mac, Ubuntu and Arch
 ```
 bash <(curl -s https://raw.githubusercontent.com/prajwalprabhu/nvim/master/utils/install.sh) 
 ```
+If you are in fish shell then execute
+```
+curl -s https://raw.githubusercontent.com/prajwalprabhu/nvim/master/utils/install.sh > /tmp/install.sh && sudo chmod +x /tmp/install.sh && /tmp/install.sh
+
+```
 
 ## Install Neovim
 
@@ -94,7 +99,7 @@ let g:node_host_prog = expand("~/.nvm/versions/node/v12.16.1/bin/neovim-node-hos
 
 ## List of programs you should install
 
-- ranger
+- ranger or vifm
 - ueberzug
 - ripgrep
 - silver_searcher
