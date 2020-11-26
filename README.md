@@ -13,7 +13,7 @@ bash <(curl -s https://raw.githubusercontent.com/prajwalprabhu/nvim/master/utils
 ```
 If you are in fish shell then execute
 ```
-curl -s https://raw.githubusercontent.com/prajwalprabhu/nvim/master/utils/install.sh > /tmp/install.sh && sudo chmod +x /tmp/install.sh && /tmp/install.sh
+curl -s https://raw.githubusercontent.com/prajwalprabhu/nvim/master/utils/install.sh > /tmp/install.sh ; and sudo chmod +x /tmp/install.sh ; and /tmp/install.sh
 
 ```
 
