@@ -125,6 +125,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Plugin Graveyard
     " pywal plugin for theme
     Plug 'dylanaraps/wal.vim'
+    " Dracula theme
+    Plug 'dracula/vim', { 'as': 'dracula' }
     " jsx syntax support
     " Typescript syntax
     " Plug 'HerringtonDarkholme/yats.vim'
