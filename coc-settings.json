@@ -33,7 +33,8 @@
     "yaml",
     "json",
     "python",
-    "java"
+    "java",
+    "coc-rls"
   ],
   "coc.preferences.hoverTarget": "float",
 
